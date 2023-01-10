@@ -13,11 +13,6 @@ Original file is located at
 
 import numpy as np
 
-"""# XOR Truth Table
-
-![XOR](https://grdp.co/cdn-cgi/image/width=500,height=500,quality=50,f=auto/https://gs-post-images.grdp.co/2022/5/screenshot-2022-05-05-161537-img1651747610703-36.jpg-rs-high-webp.jpg)
-"""
-
 inputs = np.array([[0,0],[0,1],[1,0],[1,1]])
 expected_output = np.array([[0],[1],[1],[0]])
 
